@@ -1,9 +1,25 @@
-# Getting Started with Create React App
+# Course Rank 
+This is a ReactJs Application to rate Online courses.  
+A place for costumers/students evaluate their Institutions/Schools. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Stack Objectives  
 
-## Available Scripts
+- Create data
+- Read data
+- Update data
+- Delete data
 
+Deploy at [Github Page](https://malanski.github.io/courses-rank/).
+
+
+## Module instalations  
+  
+- `npm i`
+- `npm i sass`
+- `npm i --save @fortawesome/react-fontawesome@latest`
+- `npm i --save @fortawesome/free-solid-svg-icons`
+
+## Available Scripts  
 In the project directory, you can run:
 
 ### `npm start`
